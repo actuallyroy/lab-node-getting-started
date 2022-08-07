@@ -7,6 +7,6 @@
     "test": "mocha"
   },
   "dependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^8.4.0"
   }
 }
